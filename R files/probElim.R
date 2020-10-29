@@ -15,7 +15,7 @@ probElim <- function(Iday, winLen, sidistr, Rprior){
   # Append incidence with zeros
   Iz = c(Iday, rep(0, 50)); nz = length(Iz)
   # Times (ids) to interrogate
-  idrange = idst:nz-1; nrange = length(idrange)
+  idrange = idst:(nz-1); nrange = length(idrange)
   
   # Total infectiousness (same length as Iz)
   Lamz = overall_infectivity(Iz, sidistr)
