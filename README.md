@@ -12,6 +12,6 @@ Code author: Kris V Parag
 
 Cite as: An exact method for quantifying the reliability of end-of-epidemic declarations in real time
          by Kris V Parag, Christl A. Donnelly, Rahul Jha & Robin N Thompson at
-         medRxiv 2020.07.13.20152082: https://www.medrxiv.org/content/10.1101/2020.07.13.20152082v1
+         PLoS Comput Biol: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008478
            
 
